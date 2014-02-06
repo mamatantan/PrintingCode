@@ -45,7 +45,7 @@ ellipse(x, y, d, d);
   
   //rectangle
     
-   for(int x=0;x<width;x++){
+ /*  for(int x=0;x<width;x++){
       for(x=400;x<630;x=x+40){
       for(int y=0;y<height;y++){
       if(y==185||y==235){
@@ -56,7 +56,7 @@ ellipse(x, y, d, d);
     }
    }
    }
- 
+ */
   endRecord();
 }
 
