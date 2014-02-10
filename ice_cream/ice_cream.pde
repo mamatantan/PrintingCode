@@ -6,7 +6,7 @@ int x1,y1;
 int x2,y2;
 
 void setup() {
-  size(800, 800);
+  size(800, 1000);
   background(255);
   smooth();
   beginRecord(PDF, "ice_cream.pdf"); 
